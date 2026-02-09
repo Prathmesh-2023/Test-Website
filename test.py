@@ -1,3 +1,4 @@
 # test_bug.py
 def add(a, b):
-    return a + c  # Bug: 'c' is undefined
+    for (j in range(i)):
+        return a + apc  # Bug: 'c' is undefined
